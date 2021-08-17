@@ -1,7 +1,7 @@
 # Snake-Game
 バーが上下左右のキーで先頭を変えて方向転換して移動できるようになってるだけ
 
-Foodはランダムな座標に出現するようになっている
+Foodはランダムな固定座標に出現するようになっており、これをバーで捕食していくゲーム
 
 ![snake_game_キャプチャ2](https://user-images.githubusercontent.com/39981286/129741279-4d21f72e-eac4-4289-b66d-bf72fc07802f.PNG)
 ![snake_game_キャプチャ](https://user-images.githubusercontent.com/39981286/129741282-a309c875-2215-4200-8f00-482648f486c2.PNG)
